@@ -1,7 +1,7 @@
 ---
-title: Paul's Awesome Coffee Website
+title: Paul's Awesome Coffee Website!!!!!!!!!!!!!!!
 subtitle: I made this website for no reason other than to tell you about coffee.
-image: /img/home-jumbotron.jpg
+image: img/blog-flavor_wheel.jpg
 blurb:
   heading: Why Coffee?
   text: Coffee is basically all a human needs to survive. Don't believe me? Try
